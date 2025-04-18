@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+.box {
+  width: 300px;
+  height: 300px;
+  /*border-radius: 100%;*/
+  background-color: aqua;
+}
+
+.boxTwo {
+  width: 300px;
+  height: 300px;
+  /*border-radius: 100%;*/
+  background-color: midnightblue;
+}
